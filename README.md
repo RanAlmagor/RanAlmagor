@@ -18,8 +18,8 @@ I am driven by the challenge of solving complex problems through logic and code.
 
 | Theory & Algorithms | Practical Application (Python & Data) | Foundational Knowledge |
 | :--- | :--- | :--- |
-| 🔹 **Algorithms & Data Structures** | 🔹 **Python** (for ML & Data Analysis) | 🔹 Server-Side Concepts (Java, C#) |
-| 🔹 **Discrete Mathematics** | 🔹 **Machine Learning** (Scikit-learn, Pandas) | 🔹 Database Principles (SQL) |
+| 🔹 **Algorithms & Data Structures** | 🔹 **Python** (for ML & Data Analysis) | 🔹 **Networking & Protocols** |
+| 🔹 **Discrete Mathematics** | 🔹 **Machine Learning** (Scikit-learn, Pandas) | 🔹 Server-Side Concepts (Java, C#) |
 | 🔹 **Computer Architecture** | 🔹 **Big Data Engineering** | 🔹 Cloud Fundamentals (AWS) |
 
 ---
@@ -30,6 +30,3 @@ My current focus is entirely on the intensive, hands-on study of C++. I am build
 
 * **🔭 I’m currently building:** My first foundational C++ projects.
 * **🌱 I’m currently learning:** C++ fundamentals, Object-Oriented Programming, and Memory Management.
-
----
-
