@@ -30,7 +30,8 @@ I am driven by the challenge of solving complex problems through logic and code.
 My current focus is entirely on the intensive, hands-on study of C++.  
 I am building my expertise from the ground up to become a specialist in creating robust and efficient systems.
 
-* **🔭 I’m currently building:** My first foundational C++ projects.  
-* **🌱 I’m currently learning:** C++ fundamentals, Object-Oriented Programming, and Memory Management.
+* **🔭 I’m currently building:** Practical C++ projects focusing on performance and robust system design.  
+* **🌱 Currently advancing my expertise in:** Modern C++, Object-Oriented Design, and Systems Programming.
+
 
 ---
