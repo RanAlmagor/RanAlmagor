@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[קישור לתמונת הפרופיל שלך]" alt="Ran Almagor" width="200" height="200" style="border-radius:50%;"/>
+  <img src="https://avatars.githubusercontent.com/u/171186804?v=4" alt="Ran Almagor" width="200" height="200" style="border-radius:50%;"/>
   <h1><b>Ran Almagor</b></h1>
   <h3>Computer Scientist | Problem Solver | C++ Developer in the making</h3>
 </div>
