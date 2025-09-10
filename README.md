@@ -12,17 +12,6 @@ I am a Computer Science graduate (B.Sc.) with a strong theoretical foundation an
 
 I am driven by the challenge of solving complex problems through logic and code. While my academic work was focused on Python and Machine Learning, my current professional mission is to master **modern C++ for high-performance computing.**
 
----
-
-### **Core Competencies & Skills**
-
-| Theory & Algorithms | Practical Application (Python & Data) | Foundational Knowledge |
-| :--- | :--- | :--- |
-| 🔹 **Algorithms & Data Structures** | 🔹 **Python** (for ML & Data Analysis) | 🔹 **Networking & Protocols** |
-| 🔹 **Discrete Mathematics** | 🔹 **Machine Learning** (Scikit-learn, Pandas) | 🔹 Server-Side Concepts (Java, C#) |
-| 🔹 **Computer Architecture** | 🔹 **Big Data Engineering** | 🔹 Cloud Fundamentals (AWS) |
-
----
 
 ### **Current Mission**
 
