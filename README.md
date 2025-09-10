@@ -9,7 +9,7 @@
 ### **About Me**
 
 I am a final-year Computer Science student with a strong interest in software engineering and data science.  
-Currently, I am completing my capstone research project on **medical readmission prediction** — one of the first studies of its kind in Israel — combining machine learning, data analysis, and academic writing.  
+Currently, I am completing my capstone research project on **medical readmission prediction**  one of the first studies of its kind in Israel  combining machine learning, data analysis, and academic writing.  
 
 I enjoy tackling complex problems, learning new technologies, and building practical projects to apply my skills.
 
