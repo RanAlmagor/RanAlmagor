@@ -1,38 +1,42 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/171186804?v=4" alt="Ran Almagor" width="200" height="200" style="border-radius:50%;"/>
+  <img src="[קישור לתמונת הפרופיל שלך]" alt="Ran Almagor" width="200" height="200" style="border-radius:50%;"/>
   <h1><b>Ran Almagor</b></h1>
-  <h3>Computer Science Graduate | C++ Developer in the making | Problem Solver</h3>
+  <h3>Computer Scientist | Problem Solver | C++ Developer in the making</h3>
 </div>
 
 ---
 
 ### **About Me**
 
-I am a Computer Science graduate (B.Sc.) with a solid theoretical foundation and academic research experience.  
-My final project involved developing a predictive model for medical readmission, a study that led to **Israel’s first academic publication of its kind**.
+I am a Computer Science graduate (B.Sc.) with a strong theoretical foundation and proven experience in academic research. My final project involved developing a predictive model for medical readmission, a study that led to **Israel’s first academic publication of its kind**.
 
-While my academic work focused on Python and Machine Learning, my current professional goal is to master **modern C++ for high-performance computing** and backend software engineering.
+I am driven by the challenge of solving complex problems through logic and code. While my academic work was focused on Python and Machine Learning, my current professional mission is to master **modern C++ for high-performance computing.**
 
 ---
 
 ### **Core Competencies & Skills**
 
-<div align="center">
-
-| Computer Science Fundamentals            | Programming & Development                                                    | Tools & Platforms                                     |
-| :---:                                     | :---:                                                                         | :---:                                                 |
-| ![Algorithms](https://img.shields.io/badge/Algorithms-Logic-blue?style=for-the-badge) | ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)         |
-| ![Operating Systems](https://img.shields.io/badge/Operating%20Systems-Kernel-green?style=for-the-badge) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)   |
-| ![Computer Architecture](https://img.shields.io/badge/Computer%20Architecture-Systems-orange?style=for-the-badge) | ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-Cloud-yellow?style=for-the-badge&logo=amazon-aws&logoColor=white) |
-
-</div>
+| Theory & Algorithms | Practical Application (Python & Data) | Foundational Knowledge |
+| :--- | :--- | :--- |
+| 🔹 **Algorithms & Data Structures** | 🔹 **Python** (for ML & Data Analysis) | 🔹 Server-Side Concepts (Java, C#) |
+| 🔹 **Discrete Mathematics** | 🔹 **Machine Learning** (Scikit-learn, Pandas) | 🔹 Database Principles (SQL) |
+| 🔹 **Computer Architecture** | 🔹 **Big Data Engineering** | 🔹 Cloud Fundamentals (AWS) |
 
 ---
 
 ### **Current Mission**
 
-* **🔭 Currently building:** Practical C++ projects focusing on performance and robust system design.  
-* **🌱 Currently advancing my expertise in:** Modern C++, Object-Oriented Design, and Systems Programming.
+My current focus is entirely on the intensive, hands-on study of C++. I am building my expertise from the ground up to become a specialist in creating robust and efficient systems.
+
+* **🔭 I’m currently building:** My first foundational C++ projects.
+* **🌱 I’m currently learning:** C++ fundamentals, Object-Oriented Programming, and Memory Management.
 
 ---
 
+### **Let's Connect**
+
+<p align="center">
+  <a href="[הקישור לפרופיל הלינקדאין שלך]" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
