@@ -33,10 +33,3 @@ My current focus is entirely on the intensive, hands-on study of C++. I am build
 
 ---
 
-### **Let's Connect**
-
-<p align="center">
-  <a href="[הקישור לפרופיל הלינקדאין שלך]" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
