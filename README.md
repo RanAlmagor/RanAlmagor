@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/171186804?s=400&u=11e9624078b79eef730af09a4f77e155a3cc2322&v=4" alt="Ran Almagor" width="200" height="200" style="border-radius:50%;"/>
   <h1><b>Ran Almagor</b></h1>
-  <h3>Computer Science Student | Future Software Engineer | Machine Learning Enthusiast</h3>
+  <h3>Computer Science Student | Software Engineering | AI & Data Science Background</h3>
 </div>
 
 ---
@@ -17,11 +17,15 @@ I enjoy tackling complex problems, learning new technologies, and building pract
 
 ### **Technical Skills & Expertise**
 
+<div align="center">
+
 | Core Strengths | Backend & Data | Cloud & Other Tech |
 | :---           | :---           | :---               |
 | 🔹 **Algorithms & Data Structures** | 🔹 **Python** (Scikit-learn, Pandas) | 🔹 **AWS Cloud Fundamentals** |
-| 🔹 **Discrete Mathematics**  | 🔹 **Server-Side** (Java, C#(Asp.Net)) | 🔹 Git & Version Control           |
-| 🔹 **Computer Architecture** | 🔹 **Databases** (SQL, MongoDB) | 🔹 JavaScript (React)                     |
+| 🔹 **Discrete Mathematics**  | 🔹 **Server-Side** (C# .NET) | 🔹 **Git & Version Control**   |
+| 🔹 **Computer Architecture** | 🔹 **Databases** (SQL, MongoDB) | 🔹 **JavaScript (React)**       |
+
+</div>
 
 ---
 
