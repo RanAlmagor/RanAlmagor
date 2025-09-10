@@ -8,7 +8,8 @@
 
 ### **About Me**
 
-I am a Computer Science graduate (B.Sc.) with a strong theoretical foundation and proven experience in academic research. My final project involved developing a predictive model for medical readmission, a study that led to **Israel’s first academic publication of its kind**.
+I am a Computer Science graduate (B.Sc.) with a strong theoretical foundation and proven experience in academic research.  
+My final project involved developing a predictive model for medical readmission, a study that led to **Israel’s first academic publication of its kind**.
 
 I am driven by the challenge of solving complex problems through logic and code. While my academic work was focused on Python and Machine Learning, my current professional mission is to master **modern C++ for high-performance computing.**
 
@@ -16,20 +17,20 @@ I am driven by the challenge of solving complex problems through logic and code.
 
 ### **Core Competencies & Skills**
 
-| Theory & Algorithms | Practical Application (Python & Data) | Foundational Knowledge |
-| :--- | :--- | :--- |
-| 🔹 **Algorithms & Data Structures** | 🔹 **Python** (for ML & Data Analysis) | 🔹 Server-Side Concepts (Java, C#) |
-| 🔹 **Discrete Mathematics** | 🔹 **Machine Learning** (Scikit-learn, Pandas) | 🔹 Database Principles (SQL) |
-| 🔹 **Computer Architecture** | 🔹 **Big Data Engineering** | 🔹 Cloud Fundamentals (AWS) |
+| Theory & Algorithms            | Practical Application (Python & Data) | Foundational Knowledge      |
+| :---                            | :---                                  | :---                        |
+| 🔹 **Algorithms & Data Structures** | 🔹 **Python** (for ML & Data Analysis) | 🔹 **ASP.NET**               |
+| 🔹 **Discrete Mathematics**       | 🔹 **Machine Learning** (Scikit-learn, Pandas) | 🔹 **Computer Networks**      |
+| 🔹 **Computer Architecture**      | 🔹 **Data Analysis**                  | 🔹 **Cloud Fundamentals (AWS)** |
 
 ---
 
 ### **Current Mission**
 
-My current focus is entirely on the intensive, hands-on study of C++. I am building my expertise from the ground up to become a specialist in creating robust and efficient systems.
+My current focus is entirely on the intensive, hands-on study of C++.  
+I am building my expertise from the ground up to become a specialist in creating robust and efficient systems.
 
-* **🔭 I’m currently building:** My first foundational C++ projects.
+* **🔭 I’m currently building:** My first foundational C++ projects.  
 * **🌱 I’m currently learning:** C++ fundamentals, Object-Oriented Programming, and Memory Management.
 
 ---
-
