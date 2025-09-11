@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/171186804?v=4" alt="Ran Almagor" width="200" height="200" style="border-radius:50%;"/>
   <h1><b>Ran Almagor</b></h1>
-  <h3>Computer Scientist specializing in C++ & High-Performance Systems. Background in Machine Learning research.</h3>
+  <h3>Computer Scientist | Specializing in C++ & High-Performance Systems</h3>
 </div>
 
 ---
