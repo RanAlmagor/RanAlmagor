@@ -21,7 +21,8 @@ Currently, I am expanding my knowledge in **Modern C++** for high-performance co
 * Discrete Mathematics  
 * Computer Architecture & Operating Systems  
 * Python & Machine Learning (Final Project & Academic Publication)  
-* Networking, Cloud (AWS – official courses & practical projects)
+* Networking  
+* Cloud (AWS – official courses & practical projects)
 
 ---
 
