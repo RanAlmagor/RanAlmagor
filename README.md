@@ -1,36 +1,31 @@
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/171186804?v=4" alt="Ran Almagor" width="200" height="200" style="border-radius:50%;"/>
   <h1><b>Ran Almagor</b></h1>
-  <h3>Computer Scientist | Specializing in C++ & High-Performance Systems</h3>
+  <h3>Computer Scientist with a focus on solving complex problems.</h3>
 </div>
 
 ---
 
 ### *About Me*
 
-I am a Computer Science graduate (B.Sc.) with a strong theoretical foundation and proven experience in academic research, highlighted by my contribution to Israel’s first publication of its kind in medical readmission prediction.
+I am a Computer Science graduate (B.Sc.) with a strong theoretical foundation in algorithms and computer architecture. My academic journey culminated in a research project developing a predictive model for medical readmission, which led to *Israel's first publication of its kind*.
 
-My professional mission is to leverage this deep analytical background to solve complex challenges in high-performance computing by mastering *modern C++.*
-
----
-
-### *Core Competencies*
-
-| Theory & Algorithms | Practical Expertise (Python & Data) | Foundational Knowledge |
-| :--- | :--- | :--- |
-| 🔹 *Algorithms & Data Structures* | 🔹 *Python for Machine Learning* | 🔹 *Networking & Protocols* |
-| 🔹 *Discrete Mathematics* | 🔹 *Data Analysis & Engineering* | 🔹 Server-Side Concepts (Java, C#) |
-| 🔹 *Computer Architecture* | 🔹 *Big Data Engineering* | 🔹 Cloud Architecture (AWS) |
+I am driven by the challenge of taking on difficult problems. My current mission is to apply my analytical background to master *modern C++ for high-performance computing.*
 
 ---
 
-### *Current Mission: The Forge*
+### *Core Academic Strengths*
 
-My current focus is entirely on the intensive, hands-on study of C++ to become a specialist in creating robust and efficient systems.
-
-* *🔭 Building:* My first foundational C++ projects, applying core concepts of OOP and memory management.
-* *🌱 Learning:* Advanced C++17/20 features, multithreading.
+* *Algorithms & Data Structures (Received a grade of 100)*
+* *Discrete Mathematics (96)* & *Computer Architecture (93)*
+* *Practical Experience with Python & Machine Learning* (Final Project)
+* *Foundational Knowledge in:* Networking, Databases (SQL), Server-Side Concepts (Java/C#), and Cloud (AWS).
 
 ---
 
+### *Current Grind*
 
+* *🔭 Mastering:* C++ for high-performance systems.
+* *🌱 Learning:* Spanish for cognitive enhancement and personal growth.
+* *💪 Building:* A disciplined mindset through daily physical training.
+*
