@@ -35,15 +35,4 @@ Currently, I am building expertise in **modern C++ for high-performance computin
 
 ---
 
-### *GitHub Stats & Activity*
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)  
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=radical)
-
-</div>
 
