@@ -11,7 +11,7 @@
 I am a Computer Science graduate (B.Sc.) with academic experience in algorithms, computer architecture, and systems programming.  
 My academic journey included developing a predictive model for medical readmission, leading to *Israel's first publication of its kind*.  
 
-Currently, I am building expertise in **modern C++ for high-performance computing**, applying my analytical background to create efficient and scalable software solutions.
+Currently, I am expanding my knowledge in **Modern C++** for high-performance computing, combining my analytical background with practical training to build efficient and scalable software solutions.
 
 ---
 
@@ -27,10 +27,8 @@ Currently, I am building expertise in **modern C++ for high-performance computin
 
 ### *Current Focus*
 
-* **🔭 Learning:** Modern C++ for high-performance computing and systems programming  
-* **🛠️ Planning & preparing:** Future C++ projects to apply new skills in practical settings  
+* **🔭 Learning:** Modern C++ (via *Beginning C++ Programming – From Beginner to Beyond* Udemy course)  
+* **🛠️ Preparing:** Future C++ projects to apply new skills in practical settings  
 * **🌱 Exploring:** Personal growth, including Spanish language learning and regular fitness training
 
 ---
-
-
