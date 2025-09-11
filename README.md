@@ -21,7 +21,7 @@ Currently, I am building expertise in **modern C++ for high-performance computin
 * Discrete Mathematics  
 * Computer Architecture & Operating Systems  
 * Python & Machine Learning (Final Project & Academic Publication)  
-* Networking, Cloud (AWS)
+* Networking, Cloud (AWS – official courses & practical projects)
 
 ---
 
