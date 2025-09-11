@@ -29,7 +29,7 @@ My professional mission is to leverage this deep analytical background to solve 
 My current focus is entirely on the intensive, hands-on study of C++ to become a specialist in creating robust and efficient systems.
 
 * *🔭 Building:* My first foundational C++ projects, applying core concepts of OOP and memory management.
-* *🌱 Learning:* Advanced C++17/20 features, multithreading, and Spanish.
+* *🌱 Learning:* Advanced C++17/20 features, multithreading.
 
 ---
 
