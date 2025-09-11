@@ -27,8 +27,6 @@ Currently, I am building expertise in **modern C++ for high-performance computin
 
 ### *Current Focus*
 
-### *Current Focus*
-
 * **🔭 Learning:** Modern C++ for high-performance computing and systems programming  
 * **🛠️ Planning & preparing:** Future C++ projects to apply new skills in practical settings  
 * **🌱 Exploring:** Personal growth, including Spanish language learning and regular fitness training
