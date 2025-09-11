@@ -6,16 +6,34 @@
 
 ---
 
-### **About Me**
+### *About Me*
 
-I am a Computer Science graduate (B.Sc.) with a strong theoretical foundation and proven experience in academic research. My final project involved developing a predictive model for medical readmission, a study that led to **Israel’s first academic publication of its kind**.
+I am a Computer Science graduate (B.Sc.) with a strong theoretical foundation and proven experience in academic research, highlighted by my contribution to Israel’s first publication of its kind in medical readmission prediction.
 
-I am driven by the challenge of solving complex problems through logic and code. While my academic work was focused on Python and Machine Learning, my current professional mission is to master **modern C++ for high-performance computing.**
+My professional mission is to leverage this deep analytical background to solve complex challenges in high-performance computing by mastering *modern C++.*
+
+---
+
+### *Core Competencies*
+
+| Theory & Algorithms | Practical Expertise (Python & Data) | Foundational Knowledge |
+| :--- | :--- | :--- |
+| 🔹 *Algorithms & Data Structures* | 🔹 *Python for Machine Learning* | 🔹 *Networking & Protocols* |
+| 🔹 *Discrete Mathematics* | 🔹 *Data Analysis & Engineering* | 🔹 Server-Side Concepts (Java, C#) |
+| 🔹 *Computer Architecture* | 🔹 *Big Data Engineering* | 🔹 Cloud Architecture (AWS) |
+
+---
+
+### *Current Mission: The Forge*
+
+My current focus is entirely on the intensive, hands-on study of C++ to become a specialist in creating robust and efficient systems.
+
+* *🔭 Building:* My first foundational C++ projects, applying core concepts of OOP and memory management.
+* *🌱 Learning:* Advanced C++17/20 features, multithreading, and Spanish.
+
+---
 
 
-### **Current Mission**
-
-My current focus is entirely on the intensive, hands-on study of C++. I am building my expertise from the ground up to become a specialist in creating robust and efficient systems.
-
-* **🔭 I’m currently building:** My first foundational C++ projects.
-* **🌱 I’m currently learning:** C++ fundamentals, Object-Oriented Programming, and Memory Management.
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
