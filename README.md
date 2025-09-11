@@ -1,31 +1,32 @@
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/171186804?v=4" alt="Ran Almagor" width="200" height="200" style="border-radius:50%;"/>
   <h1><b>Ran Almagor</b></h1>
-  <h3>Computer Scientist with a focus on solving complex problems.</h3>
+  <h3>Computer Science Graduate building expertise in Modern C++ and Systems Programming</h3>
 </div>
 
 ---
 
 ### *About Me*
 
-I am a Computer Science graduate (B.Sc.) with a strong theoretical foundation in algorithms and computer architecture. My academic journey culminated in a research project developing a predictive model for medical readmission, which led to *Israel's first publication of its kind*.
+I am a Computer Science graduate (B.Sc.) with academic experience in algorithms, computer architecture, and systems programming.  
+My academic journey included developing a predictive model for medical readmission, leading to *Israel's first publication of its kind*.  
 
-I am driven by the challenge of taking on difficult problems. My current mission is to apply my analytical background to master *modern C++ for high-performance computing.*
-
----
-
-### *Core Academic Strengths*
-
-* *Algorithms & Data Structures (Received a grade of 100)*
-* *Discrete Mathematics (96)* & *Computer Architecture (93)*
-* *Practical Experience with Python & Machine Learning* (Final Project)
-* *Foundational Knowledge in:* Networking, Databases (SQL), Server-Side Concepts (Java/C#), and Cloud (AWS).
+Currently, I am building expertise in **modern C++ for high-performance computing**, applying my analytical background to create efficient and scalable software solutions.
 
 ---
 
-### *Current Grind*
+### *Core Academic Experience*
 
-* *🔭 Mastering:* C++ for high-performance systems.
-* *🌱 Learning:* Spanish for cognitive enhancement and personal growth.
-* *💪 Building:* A disciplined mindset through daily physical training.
-*
+* Algorithms & Data Structures  
+* Discrete Mathematics  
+* Computer Architecture & Operating Systems  
+* Python & Machine Learning (Final Project & Academic Publication)  
+* Networking, Databases (SQL), Cloud (AWS)
+
+---
+
+### *Current Focus*
+
+* **🔭 Mastering:** Modern C++ for high-performance computing and systems programming  
+* **🛠️ Developing:** Practical software projects applying algorithms and backend concepts  
+* **🌱 Exploring:** Personal growth, including Spanish language learning and a balanced lifestyle
