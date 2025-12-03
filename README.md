@@ -1,8 +1,9 @@
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/171186804?v=4" alt="Ran Almagor" width="200" height="200" style="border-radius:50%;"/>
-  <h1><b>Ran Almagor</b></h1>
-  <h3>Computer Science Student (B.Sc.) | Learning Modern C++ | Future Systems Developer</h3>
-</div>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
+    <img src="assets/hero-light.svg" alt="Ran Almagor — Modern C++" width="100%">
+  </picture>
+</p>
 
 ---
 
@@ -30,4 +31,4 @@ Currently, I am expanding my knowledge in **Modern C++** for high-performance co
 
 * **🔭 Learning:** Modern C++ (via *Beginning C++ Programming – From Beginner to Beyond* Udemy course)  
 * **🛠️ Preparing:** Planning first C++ projects to apply new skills soon  
-* **🌱 Exploring:** Personal growth, including Spanish language learning and regular fitness training   
+* **🌱 Exploring:** Personal growth, including Spanish language learning and regular fitness training
