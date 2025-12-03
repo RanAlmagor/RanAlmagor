@@ -1,7 +1,7 @@
-<p align="center">
+<p align=\"center\">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
-    <img src="assets/hero-light.svg" alt="Ran Almagor — Modern C++" width="100%">
+    <source media=\"(prefers-color-scheme: dark)\" srcset=\"assets/hero-dark-plain.svg\">
+    <img src=\"assets/hero-light-plain.svg\" alt=\"Ran Almagor — Modern C++\" width=\"100%\">
   </picture>
 </p>
 

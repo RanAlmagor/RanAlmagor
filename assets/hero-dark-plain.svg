@@ -13,14 +13,30 @@
     </filter>
   </defs>
 
+  <!-- Card -->
   <rect x="24" y="24" rx="24" ry="24" width="1152" height="292" fill="url(#dg1)" filter="url(#dsoftShadow)"/>
+  <!-- Accent -->
   <path d="M24,230 C240,200 320,320 560,300 C800,280 960,160 1176,190 L1176,316 L24,316 Z"
         fill="url(#dg2)" opacity="0.20"/>
+
+  <!-- Monogram circle -->
   <circle cx="140" cy="170" r="66" fill="none" stroke="url(#dg2)" stroke-width="6"/>
-  <clipPath id="dclip"><circle cx="140" cy="170" r="58"/></clipPath>
-  <image href="https://avatars.githubusercontent.com/u/171186804?v=4" x="82" y="112" width="116" height="116" clip-path="url(#dclip)"/>
-  <text x="220" y="165" font-family="Inter, Segoe UI, Roboto, Arial" font-size="36" font-weight="800" fill="#e2e8f0">Ran Almagor</text>
-  <text x="220" y="205" font-family="Inter, Segoe UI, Roboto, Arial" font-size="18" fill="#94a3b8">Computer Science B.Sc · Modern C++ · Systems & Performance</text>
+  <circle cx="140" cy="170" r="58" fill="#0b1220" stroke="#1f2937" stroke-width="1"/>
+  <text x="140" y="178" text-anchor="middle" font-family="Inter, Segoe UI, Roboto, Arial" font-size="40" font-weight="800" fill="#e2e8f0">
+    RA
+  </text>
+
+  <!-- Text -->
+  <text x="220" y="165" font-family="Inter, Segoe UI, Roboto, Arial" font-size="36" font-weight="800" fill="#e2e8f0">
+    Ran Almagor
+  </text>
+  <text x="220" y="205" font-family="Inter, Segoe UI, Roboto, Arial" font-size="18" fill="#94a3b8">
+    Computer Science B.Sc · Modern C++ · Systems & Performance
+  </text>
+
+  <!-- Badge -->
   <rect x="220" y="228" rx="8" ry="8" width="320" height="30" fill="#111827" stroke="#1f2937"/>
-  <text x="235" y="248" font-family="Inter, Segoe UI, Roboto, Arial" font-size="14" fill="#c7d2fe">C++17/20 · Polymorphism · RAII · Templates · Exceptions</text>
+  <text x="235" y="248" font-family="Inter, Segoe UI, Roboto, Arial" font-size="14" fill="#c7d2fe">
+    C++17/20 · Polymorphism · RAII · Templates · Exceptions
+  </text>
 </svg>
