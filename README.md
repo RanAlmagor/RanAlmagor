@@ -1,6 +1,10 @@
 <p align="center">
-  <img src="assets/hero-unified-personal-spacious.png" alt="Ran Almagor — Modern C++" width="100%">
+  <img src="assets/hero-unified-personal-lightpad.png" alt="Ran Almagor — Modern C++" width="100%">
 </p>
+
+<br/>  <!-- מרווח אנכי קטן לפני הקטע הבא -->
+
+---
 
 
 ---
