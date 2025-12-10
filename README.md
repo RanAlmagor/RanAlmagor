@@ -9,15 +9,15 @@
 
 ---
 
-### 🚀 Projects (Learning Stage)
+### 🚀 Projects & Experiments
 
-- 🎆 **Polymorphic Fireworks (WIP)**  
+- 🎆 **Polymorphic Fireworks**  
   Small fireworks prototype in Modern C++ – practice for OOP, inheritance and RAII.  
   Uses SFML as a simple rendering layer while I'm still learning the library.
 
-- 🧪 **Physics Sandbox (WIP)**  
+- 🧪 **Physics Sandbox**  
   Early 2D particle / falling-sand sandbox in Modern C++.  
-  A playground for getting comfortable with a game-loop style and basic SFML usage.
+  A playground for getting comfortable with a game loop and basic SFML usage.
 
 - 🧱 **Cpp-Core-Concepts**  
   Collection of small Modern C++ exercises: custom string class, polymorphic banking
@@ -31,7 +31,8 @@
 
 ---
 
-### 🌱 On the side
+### 🌱 Outside of code
 
-Experimenting with **Stable Diffusion** for Tron-style banners and visuals,  
-and slowly turning these experiments into more serious C++ / graphics projects.
+- Learning **Spanish**  
+- Enjoying travel and exploring new places  
+- Playing with **Stable Diffusion** and generative art
