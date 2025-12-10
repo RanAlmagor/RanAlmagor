@@ -2,7 +2,7 @@
   <img src="assets/tron.png" alt="Tron-style banner – Ran Almagor" width="100%" />
 </p>
 
-<h2 align="center">Hi, I'm Ran 👋</h2>
+<h2 align="center">Hey, I'm Ran 👋</h2>
 <p align="center">
   <b>Modern C++ · Real-Time Experiments</b>
 </p>
@@ -15,7 +15,7 @@
   Small fireworks prototype in Modern C++ – practice for OOP, inheritance and RAII.  
   Uses SFML as a simple rendering layer while I'm still learning the library.
 
-- 🏖️ **Physics Sandbox**  
+- 🪣 **Physics Sandbox**  
   2D falling-sand / particle sandbox in Modern C++.  
   A playground for getting comfortable with a game loop and basic SFML usage.
 
