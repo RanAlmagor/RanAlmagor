@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/profile.png" alt="Ran Almagor profile" width="140" style="border-radius:50%; border: 2px solid #00e5ff;" />
+  <img src="https://github.com/RanAlmagor.png" alt="Ran Almagor profile" width="140" />
 </p>
 
 <h2 align="center">Hi, I'm Ran 👋</h2>
@@ -19,7 +19,7 @@
   Small fireworks prototype in Modern C++ – practice for OOP, inheritance and RAII.  
   Uses SFML as a simple rendering layer while I'm still learning the library.
 
-- 🪣 **Physics Sandbox**  
+- 🏖️ **Physics Sandbox**  
   2D falling-sand / particle sandbox in Modern C++.  
   A playground for getting comfortable with a game loop and basic SFML usage.
 
