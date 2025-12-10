@@ -4,12 +4,8 @@
 <p align="left">
   I'm a Computer Science student from Israel, focusing on <b>Modern C++</b>, real-time systems, and clean code.<br/>
   I also worked on a predictive model for medical readmission that led to an academic publication.
-</p><hr/><h3 align="center"><i>Core Experience</i></h3>
-<p align="left">
-  ▸ Algorithms &amp; Data Structures<br/>
-  ▸ Computer Architecture &amp; Low-Level Concepts<br/>
-  ▸ Networking &amp; Cloud (AWS courses &amp; certifications)<br/>
-  ▸ Python &amp; Machine Learning (final project &amp; publication)
+  
+</p><hr/><h3 align="center"><i>Core 
 </p><hr/><h3 align="center"><i>Current Focus</i></h3>
 <p align="left">
   ▸ <b>Modern C++:</b> memory management (RAII, smart pointers), OOP, templates<br/>
