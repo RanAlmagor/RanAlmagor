@@ -2,10 +2,6 @@
   <img src="assets/tron.png" alt="Tron-style banner – Ran Almagor" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://github.com/RanAlmagor.png" alt="Ran Almagor profile" width="140" />
-</p>
-
 <h2 align="center">Hi, I'm Ran 👋</h2>
 <p align="center">
   <b>Modern C++ · Real-Time Experiments</b>
