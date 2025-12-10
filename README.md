@@ -2,7 +2,7 @@
   <img src="assets/tron.png" alt="Tron-style banner – Ran Almagor" width="100%" />
 </p>
 
-<h2 align="center">Ran Almagor</h2>
+<h2 align="center">Hi, I'm Ran 👋</h2>
 <p align="center">
   <b>Modern C++ · Real-Time Experiments</b>
 </p>
