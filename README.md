@@ -16,7 +16,7 @@
   Uses SFML as a simple rendering layer while I'm still learning the library.
 
 - 🧪 **Physics Sandbox**  
-  Early 2D particle / falling-sand sandbox in Modern C++.  
+  2D falling-sand / particle sandbox in Modern C++.  
   A playground for getting comfortable with a game loop and basic SFML usage.
 
 - 🧱 **Cpp-Core-Concepts**  
@@ -31,7 +31,7 @@
 
 ---
 
-### 🌱 Outside of code
+### 🌱 Outside of Code
 
 - Learning **Spanish**  
 - Enjoying travel and exploring new places  
