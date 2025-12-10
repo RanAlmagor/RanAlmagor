@@ -1,61 +1,37 @@
 <p align="center">
-  <img src="assets/hero-unified-personal-lightpad.png" alt="Ran Almagor — Modern C++" width="100%" />
+  <img src="assets/tron.png" alt="Tron-style banner – Ran Almagor" width="100%" />
 </p>
 
-<br/>
-
-<h3 align="center">Hi, I'm Ran 👋</h3>
-
+<h2 align="center">Ran Almagor</h2>
 <p align="center">
-  <b>Modern C++ • Real-Time Simulation • Game-like Systems</b>
+  <b>Modern C++ · Real-Time Experiments</b>
 </p>
 
 ---
 
-## 🧩 About Me
+### 🚀 Projects (Learning Stage)
 
-I'm a Computer Science student from Israel, currently moving my focus towards **Modern C++**  
-and real-time / simulation projects.
+- 🎆 **Polymorphic Fireworks (WIP)**  
+  Small fireworks prototype in Modern C++ – practice for OOP, inheritance and RAII.  
+  Uses SFML as a simple rendering layer while I'm still learning the library.
 
-I also worked as a research assistant on a **hospital readmission prediction** project  
-(Python, data analysis, ML) together with a medical center and academic staff.
-
----
-
-## 🚀 Highlighted Projects
-
-- 🎆 **The Ultimate Polymorphic Fireworks Show**  
-  High-performance fireworks simulation in Modern C++ and SFML 3.  
-  Focus on OOP, polymorphism, RAII and clean architecture.
-
-- 🧪 **Physics Sandbox – 2D Particle Simulation**  
-  Falling-sand style sandbox written in Modern C++ and SFML.  
-  Grid-based particles (sand, water, stone) with simple real-time physics.
+- 🧪 **Physics Sandbox (WIP)**  
+  Early 2D particle / falling-sand sandbox in Modern C++.  
+  A playground for getting comfortable with a game-loop style and basic SFML usage.
 
 - 🧱 **Cpp-Core-Concepts**  
-  A collection of small projects and exercises in Modern C++:  
-  custom string class, polymorphic banking system, memory management, etc.
+  Collection of small Modern C++ exercises: custom string class, polymorphic banking
+  system, memory & pointer practice as I go through C++ courses.
 
 ---
 
-## 🛠 Tech & Tools
+### 🛠 Currently Learning
 
-- **Languages:** Modern C++ (C++17/20), Python (pandas, scikit-learn)  
-- **Libraries / Engines:** SFML 3, starting to explore OpenGL & Unreal Engine 5  
-- **Topics I care about:** RAII, smart pointers, OOP, clean code, real-time behavior  
+`Modern C++17/20` · `SFML (beginner level)` · `OpenGL (intro)` · `Unreal Engine 5 (intro)`
 
 ---
 
-## 🎯 What I'm Working On Now
+### 🌱 On the side
 
-- Expanding my **Modern C++** skills through real projects  
-- Improving my simulations / game-like systems with SFML  
-- Gradually learning **OpenGL** and **Unreal Engine 5**  
-- Building a portfolio that shows I can think like an engineer, not רק לפתור תרגילים 😉
-
----
-
-## 🌱 Beyond Code
-
-I’m also into **Spanish**, self-development, and staying in shape –  
-trying to grow as a person alongside becoming a stronger engineer.
+Experimenting with **Stable Diffusion** for Tron-style banners and visuals,  
+and slowly turning these experiments into more serious C++ / graphics projects.
