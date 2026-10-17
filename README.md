@@ -1,38 +1,33 @@
 <p align="center">
-  <img src="assets/tron.png" alt="Tron-style banner – Ran Almagor" width="100%" />
+  <img src="assets/tron.png" alt="Ran Almagor" width="100%" />
 </p>
 
 <h2 align="center">Hey, I'm Ran 👋</h2>
-<p align="center">
-  <b>Modern C++ · Real-Time Experiments</b>
-</p>
+<p align="center"><b>AI Engineer · Building AI Agents & LLM Applications · ML Research</b></p>
 
 ---
 
-### 🚀 Projects & Experiments
+### 🚀 Featured Projects
 
-- 🎆 **Polymorphic Fireworks**  
-  Small fireworks prototype in Modern C++ – practice for OOP, inheritance and RAII.  
-  Uses SFML as a simple rendering layer while I'm still learning the library.
-
-- 🪣 **Physics Sandbox**  
-  2D falling-sand / particle sandbox in Modern C++.  
-  A playground for getting comfortable with a game loop and basic SFML usage.
-
-- 🧱 **Cpp-Core-Concepts**  
-  Collection of small Modern C++ exercises: custom string class, polymorphic banking
-  system, memory & pointer practice as I go through C++ courses.
+- 🎨 **DiffusionCraft** – Serverless AI image-generation platform on AWS using Stable Diffusion.
+- 👁️ **VigilantEye** – Real-time computer-vision pipeline in C++17: YOLO detection, lightweight tracking and HUD overlay.
+- 🧪 **kraken-api-qa-automation** – Automated API testing framework in Python and pytest.
+- 🏥 **Clinical ML Research** – Predicting psychiatric readmission from 8,000+ hospitalizations (AUC 0.815), with Lev HaSharon Medical Center.
 
 ---
 
-### 🛠 Currently Learning
+### 🧠 Currently Focused On
 
-`Modern C++17/20` · `SFML (beginner level)` · `OpenGL (intro)` · `Unreal Engine 5 (intro)`
+`AI Agents` · `Claude Code & Claude API` · `LLM Security` · `Modern C++`
+
+### 🛠 Tech
+
+`Python` · `C++17` · `AWS` · `Machine Learning` · `pytest`
 
 ---
 
 ### 🌱 Outside of Code
 
-- Learning **Spanish**  
-- Enjoying travel and exploring new places  
-- Playing with **Stable Diffusion** and generative art
+- Learning **Spanish**
+- Travel and exploring new places
+- Generative art with **Stable Diffusion**
